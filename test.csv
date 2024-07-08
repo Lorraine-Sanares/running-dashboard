@@ -1,0 +1,4 @@
+activity id,activity date,activity name,activity type,elapsed time,moving time,distance,max heart rate,elevation gain,max speed,calories,activity_date,start_time,start_date,month,year,dayofyear,dayofweek,elapsed minutes,km per hour,avg pace,Week
+11490360645,"25 May 2024, 03:45:59",Afternoon Run,Run,1030,1001.0,2.2,191.0,17.599998474121094,3.943994045257568,106.0,2024-05-25 03:45:59,03:45:59,2024-05-25,May,2024,146,5,17.17,7.69,7.8,21
+11470243862,"14 Apr 2024, 06:36:30",Como Park,Run,2633,1185.0,3.09,199.0,15.926480293273926,3.437999725341797,131.0,2024-04-14 06:36:30,06:36:30,2024-04-14,April,2024,105,6,43.88,4.23,14.2,15
+11470290443,"29 Dec 2023, 05:23:55",Como Park,Run,1110,919.0,2.31,187.0,3.1894736289978027,8.793333053588867,90.0,2023-12-29 05:23:55,05:23:55,2023-12-29,December,2023,363,4,18.5,7.49,8.01,52
