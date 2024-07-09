@@ -18,4 +18,19 @@ Additionally, I want to combine my health data, analyse energy expenditure trend
 The link to the dashboard sources its data from my own local csv files that I exported from the Strava and Apple Health apps. Here's what you can do if you'd like to use this dashboard for your own data:
 
 
+### Requirements 
+
+
+### How to export Strava and Apple Health Data
+Change the data paths in app.py to you're own csv files. 
+
+## Improvements 
+I update this application on an ongoing basis, improving or adding new features as I become a more experienced runner and programmer. Here's a list of things that I'm currently working on for this project:
+
+* Using Apple gps data to plot heatmap
+* Summary row connected to drop down filters
+* Make functions for data loading and cleaning more robust
+* Not specific to just data
+* Implement linear regression model/time series forecasting
+* Even just on jupyter notebook for now
 
