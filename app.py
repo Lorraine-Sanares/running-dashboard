@@ -22,13 +22,13 @@ from Components import (
     ids,
 )
 
-from flask import Flask
-# app = dash.Dash(__name__)
-# server = app.server
+# from flask import Flask
+app = dash.Dash(__name__)
+server = app.server
 
-server = Flask(__name__)
-app = dash.Dash(__name__, server=server)
-server._got_first_request = server.before_first_request
+# server = Flask(__name__)
+# app = dash.Dash(__name__, server=server)
+# server._got_first_request = server.before_first_request
 
 STRAVA_DATA = "Data/activities.csv"
 APPLE_DATA = "Data/VO2Max.csv"
