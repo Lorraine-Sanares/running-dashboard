@@ -5,7 +5,8 @@ This web application creates a dashboard of running statistics and trends from e
 
 Try out the app here.
 
-<img width="1470" alt="Screenshot 2024-07-09 at 2 11 20 pm" src="https://github.com/Raine0554/Strava-Project/assets/96808637/a0c259ba-5397-481e-9fd3-a9cc11ce668b">
+<img width="1470" alt="Screenshot 2024-07-09 at 8 49 01 pm" src="https://github.com/Raine0554/running-dashboard/assets/96808637/532b41da-1fa1-40a8-8bcb-1dfabd530432">
+
 
 ## Why I made this application
 As a beginner runner, 
