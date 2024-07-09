@@ -12,6 +12,9 @@ Additionally, I want to combine my health data, analyse energy expenditure trend
 ## Purpose of the project
 This web application creates a dashboard of running statistics and trends from exported Strava and Apple Health data. By pairng these two datasets together, this app intends to help runners view their performance statistics and progress overtime. The race pace predictor is also a useful tool for runners to view their estimated performance on race days based off their current traninng efforts, and can therefore make adjustments to their training plan.
 
+Try out the app here.
+<img width="1470" alt="Screenshot 2024-07-09 at 2 11 20 pm" src="https://github.com/Raine0554/Strava-Project/assets/96808637/a0c259ba-5397-481e-9fd3-a9cc11ce668b">
+
 ## Why I made this application
 As a beginner runner, 
 
