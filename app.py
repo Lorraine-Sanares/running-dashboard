@@ -23,7 +23,7 @@ from Components import training_hrs_bar
 from Components import summary_text
 
 app = dash.Dash(__name__)
-
+server = app.server
 
 
 STRAVA_DATA = "activities.csv"
