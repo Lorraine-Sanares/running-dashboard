@@ -22,9 +22,9 @@ Additionally, I want to combine my health data, analyse energy expenditure trend
 ## Documents
 Here are the different files in the project:
 
-Strava and Health Exploratory Data Analysis: A Jupyter Notebook that details the data preprocessing and visualisation for the project.
-Race Performance Estimator: A Jupyter Notebook that details my whole process for constructing a linear regression model.
-[Data Visualization:](https://github.com/Raine0554/running-dashboard/blob/main/app.py) The python code I did for visualizing the data and creating the dashboard application.
+* Strava and Health Exploratory Data Analysis: A Jupyter Notebook that details the data preprocessing and visualisation for the project.
+* Race Performance Estimator: A Jupyter Notebook that details my whole process for constructing a linear regression model.
+* [Data Visualization:](https://github.com/Raine0554/running-dashboard/blob/main/app.py) The python code I did for visualizing the data and creating the dashboard application.
 
 ## How to use this application
 The link to the dashboard sources its data from my own local csv files that I exported from the Strava and Apple Health apps. Here's what you can do if you'd like to use this dashboard for your own data:
