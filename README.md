@@ -7,6 +7,8 @@ Try out the app here: https://running-dashboard.onrender.com/
 
 ![Untitled design (3)](https://github.com/Raine0554/running-dashboard/assets/96808637/9366c3af-9605-4380-b978-21909c6f699e)
 
+Here's a screenshot
+
 <img width="1454" alt="Screenshot 2024-07-09 at 8 51 37 pm" src="https://github.com/Raine0554/running-dashboard/assets/96808637/401b6a20-129c-47c7-8128-d90b4642bd45">
 
 
