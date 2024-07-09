@@ -9,10 +9,10 @@ I also want to see what my predicted race performance will be in October based o
 Additionally, I want to combine my health data, analyse energy expenditure trends throughout the week so that I can gauge my calorie intake so I can maintain a calorie deficit without feeling hungry. 
 
 
-### Purpose of the project
+## Purpose of the project
 This web application creates a dashboard of running statistics and trends from exported Strava and Apple Health data. By pairng these two datasets together, this app intends to help runners view their performance statistics and progress overtime. The race pace predictor is also a useful tool for runners to view their estimated performance on race days based off their current traninng efforts, and can therefore make adjustments to their training plan.
 
-### Why I made this application
+## Why I made this application
 As a beginner runner, 
 
 
