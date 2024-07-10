@@ -36,13 +36,12 @@ The link to the dashboard sources its data from my own local csv files that I ex
 ### How to export Strava and Apple Health Data
 Change the data paths in app.py to you're own csv files. 
 
-## Improvements 
-I update this application on an ongoing basis, improving or adding new features as I become a more experienced runner and programmer. Here's a list of things that I'm currently working on for this project:
+## Improvements
+I update this application on an ongoing basis, improving or adding new features as I become a more experienced runner and programmer. Here are the features that I'm currently implementing:
 
-* Using Apple gps data to plot heatmap
-* Summary row connected to drop down filters
-* Make functions for data loading and cleaning more robust
-* Not specific to just data
-* Implement linear regression model/time series forecasting
-* Even just on jupyter notebook for now
+* Linear regression race performance indicator
+* Dynamic heatmap using Apple gps data (instead of static image)
+* Dashboard tabs
+* Connecting summary row to dropdown filters
+* Making functions for loading and cleaning data more robust
 
