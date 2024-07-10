@@ -13,11 +13,11 @@ Here's a screenshot
 
 
 ## Why I made this application
-As a beginner runner, 
-Strava is good at analysing each run, but is not good at comparing runs or showing progress overtime (e.g how much your pace has improved; overall average, pace per distance types)
-I want to see how much I’ve improved overtime. I also want to see what my predicted race performance will be in October based on my current progression trends (apply linear regression model).
+As a beginner runner, I find Strava a really useful app for analysing individual runs, but noticed that it lacked features for tracking training distributions and progress over time. I wanted to see how my pace has improved throughout my training. Additionally, I wanted to predict my race performance in October by applying a linear regression model to my current progression trends.
 
-Additionally, I want to combine my health data, analyse energy expenditure trends throughout the week so that I can gauge my calorie intake so I can maintain a calorie deficit without feeling hungry. 
+I also integrated my Apple health data to analyse other running performance indicators such as max heart rate and VO2 max. A decreasing max heart rate and an increase VO2 max are good signs of improving fitness levels. 
+
+Lastly, tracking my energy expenditure trends throughout the week would help me ensure I get adequate nutrition intake, avoiding issues such as over- or under-fuelling.
 
 ## Documents
 Here are the different files in the project:
