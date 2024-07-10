@@ -37,9 +37,9 @@ The link to the dashboard sources its data from my own local csv files that I ex
 Change the data paths in app.py to you're own csv files. 
 
 ## Features
-Dropdown filters for day of week, distance and run type
-Performance charts
-Shareable link
+* Dropdown filters for day of week, distance and run type
+* Performance charts
+* Shareable link
 
 ## Improvements
 I update this application on an ongoing basis, improving or adding new features as I become a more experienced runner and programmer. Here are the features that I'm currently implementing:
