@@ -35,10 +35,11 @@ The link to the dashboard sources its data from my own local csv files that I ex
 ### How to export Strava and Apple Health Data
 Download and transfer your Apple health data into your project folder and run this line of code:
 
-'''
+```
 %run -i "apple-health-data-parser" "export.xml"
-'''
+```
 
+Then on the app.py file, you'll need to change ```strava_data``` and ```apple_data``` variables to the path of you're local csv files.
 
 
 ## Features
