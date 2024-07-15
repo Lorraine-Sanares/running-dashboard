@@ -29,12 +29,17 @@ Here are the different files in the project:
 ## How to use this application
 The link to the dashboard sources its data from my own local csv files that I exported from the Strava and Apple Health apps. Here's what you can do if you'd like to use this dashboard for your own data:
 
-
 ### Requirements 
 
 
 ### How to export Strava and Apple Health Data
-Change the data paths in app.py to you're own csv files. 
+Download and transfer your Apple health data into your project folder and run this line of code:
+
+'''
+%run -i "apple-health-data-parser" "export.xml"
+'''
+
+
 
 ## Features
 * Dropdown filters for day of week, distance and run type
