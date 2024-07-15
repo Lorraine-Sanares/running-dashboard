@@ -26,21 +26,21 @@ Here are the different files in the project:
 * Race Performance Estimator: A Jupyter Notebook that details my whole process for constructing a linear regression model.
 * [Data Visualization:](https://github.com/Raine0554/running-dashboard/blob/main/app.py) The python code I did for visualizing the data and creating the dashboard application.
 
+## Library Requirements 
+* pandas
+* dash
+* plotly
+* scikit learn
+* numpy
+
 ## How to use this application
 The link to the dashboard sources its data from my own local csv files that I exported from the Strava and Apple Health apps. Here's what you can do if you'd like to use this dashboard for your own data:
 
-### Requirements 
-
-
-### How to export Strava and Apple Health Data
-Download and transfer your Apple health data into your project folder and run this line of code:
-
-```
-%run -i "apple-health-data-parser" "export.xml"
-```
-
-Then on the app.py file, you'll need to change ```strava_data``` and ```apple_data``` variables to the path of you're local csv files.
-
+1. Download and transfer your Apple health data into the same directory as ```apple-health-parser.py``` and run this line of code:
+  ```
+  %run -i "apple-health-data-parser" "export.xml"
+  ```
+2. On the app.py file, you'll need to change ```strava_data``` and ```apple_data``` variables to the relative path of you're local csv files.
 
 ## Features
 * Dropdown filters for day of week, distance and run type
