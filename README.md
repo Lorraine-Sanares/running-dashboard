@@ -3,7 +3,8 @@
 ## Purpose of the project
 This web application creates a dashboard of running statistics and trends from exported Strava and Apple Health data. By pairng these two datasets together, this app intends to help runners view their performance statistics and progress overtime. The race pace predictor is also a useful tool for runners to view their estimated performance on race days based off their current traninng efforts, and can therefore make adjustments to their training plan.
 
-Try out the app here: https://running-dashboard.onrender.com/
+App initially ran on render: https://running-dashboard.onrender.com/
+Aiming to migrate this on vercel for less server issues.
 
 ![Untitled design (3)](https://github.com/Raine0554/running-dashboard/assets/96808637/9366c3af-9605-4380-b978-21909c6f699e)
 
